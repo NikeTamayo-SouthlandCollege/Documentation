@@ -55,7 +55,7 @@ Flutter is designed to speed up app development and create attractive, user-frie
 
 The terms “libraries” and “frameworks” are sometimes used interchangeably, but they’re very different.
 
-https://www.youtube.com/watch?v=LimOOe6I4eo
+[![IMAGE_ALT](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXMrhnkelk7jHISpolstnQl8e7I7IJMYa-xA&usqp=CAU)](https://www.youtube.com/watch?v=LimOOe6I4eo)
 
 In the video above, Carlos, a Web Developer, explains that a library is a set of previously-written code that you can use to build your own code. A framework is a supporting structure that requires specificity. You must follow the pattern of the framework.
 
