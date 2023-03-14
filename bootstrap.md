@@ -66,6 +66,8 @@ Although most developers don’t use LESS, significant projects rely on it. Obvi
 
 >[Getting started with bootstrap.](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 
+>[Bootstrap 5 Tutorial](https://www.w3schools.com/bootstrap5/)
+
 <br>
 
 ***----- Video tutorial -----***
