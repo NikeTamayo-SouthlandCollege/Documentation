@@ -5,4 +5,4 @@
 
 >📌[Front-End Frameworks Overview](https://github.com/NikeTamayo-SouthlandCollege/Documentation/blob/main/Frameworks-Overview.md)
 
->📌[Bootstrap](https://github.com/NikeTamayo-SouthlandCollege/Documentation/blob/main/bootstrap.md)
+>📌[Bootstrap](https://github.com/NikeTamayo-SouthlandCollege/Documentation/blob/main/Bootstrap-Tutorial.md)
