@@ -7,6 +7,6 @@
 
 >📌[Bootstrap](https://github.com/NikeTamayo-SouthlandCollege/Documentation/blob/main/Bootstrap-Tutorial.md)
 
-<br><br>
+<br>
 
     GROUP 8 - OCTAVIAN
