@@ -2,7 +2,6 @@
 <br>
 
 ## 📌**WHAT** IS A FRAMEWORK?
-#
 
 - A framework is software that simplifies the development and maintenance of substantial projects. They also provide guidelines for creating the app architecture, which consists of a **skeletal framework** that must be modified and expanded according to its specifications.
 
@@ -25,7 +24,6 @@ A house isn’t complete with just the framework, though. Similarly, a framework
 <br>
 
 ## 📌**FRAMEWORKS** VS. **LIBRARIES**
-#
 
 The terms **libraries** and **frameworks** are sometimes used interchangeably, but they are very different.
 
@@ -40,7 +38,6 @@ Frameworks can, and often do, including libraries. Libraries are used to fill ou
 <br>
 
 ## 📌**WHY** USE A FRONT-END FRAMEWORK?
-#
 
 Using frameworks saves time and reduces the risk of errors. You do not need to write everything from the ground up, so there is less chance of introducing errors. Plus, frameworks have already been tested, so there is less to worry about. Other advantages include:
 
@@ -70,7 +67,6 @@ Front-end web development code is relatively secure. This is one of the most imp
 <br>
 
 ## 📌**TYPES** OF FRONT-END FRAMEWORK?
-#
 
 Frameworks are used for developing websites, mobile applications, data science, and more. Here are the top 3 popular frameworks:
 
@@ -122,3 +118,7 @@ A large learning and support community. | |
 | Simple syntax  | Applicability to larger projects is limited.  |
 | Two-way data binding  | It does not have a powerful business behind it.  |
 | Has a positive effect on SEO  |  |
+
+<br>
+
+> ***Next*** [Bootstrap Tutorial](https://github.com/NikeTamayo-SouthlandCollege/Documentation/blob/main/Bootstrap-Tutorial.md)
