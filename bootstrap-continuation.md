@@ -91,6 +91,8 @@ Be sure to have your pages set up with the latest design and development standar
 </html>
 ```
 
+That’s all you need for overall page requirements. Visit the [Layout docs](https://getbootstrap.com/docs/4.0/layout/overview/) or [our official examples](https://getbootstrap.com/docs/4.0/examples/) to start laying out your site’s content and components.
+
 # Important globals
 
 Bootstrap employs a handful of important global styles and settings that you’ll need to be aware of when using it, all of which are almost exclusively geared towards the normalization of cross browser styles. Let’s dive in.
